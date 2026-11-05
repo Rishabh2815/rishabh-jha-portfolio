@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" fill="none">
+  <path d="M43 430 392 82l542 56v480L716 962 43 780V430Z" fill="#3054DE"/>
+  <path d="m392 82 542 56-219 440-673-148L392 82Z" fill="#5673ED"/>
+  <path d="m431 176 397 39-160 318-482-106 245-251Z" fill="#18203A"/>
+  <path d="m457 195 338 33-138 271-412-91 212-213Z" fill="#A9B8FF"/>
+  <path d="m431 176 397 39-26 37-345-41-205 203-55-12 234-226Z" fill="#90A3FF"/>
+  <path d="m43 430 673 148v384L43 780V430Z" fill="#4163E2"/>
+  <path d="m716 578 218-440v480L716 962V578Z" fill="#233DB2"/>
+  <path d="m43 430 673 148 218-440" stroke="#19284F" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M67 459v303l630 168" stroke="#A8B7FF" stroke-opacity=".4" stroke-width="5"/>
+  <path d="m740 597 169-337v344L740 918V597Z" stroke="#8597FF" stroke-opacity=".38" stroke-width="5"/>
+  <text x="365" y="675" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="7" transform="rotate(12 365 675)">MY WORKS</text>
+  <path d="m310 470 117 26" stroke="#FFFFFF" stroke-opacity=".85" stroke-width="6" stroke-linecap="round"/>
+  <path d="m544 518 116 26" stroke="#FFFFFF" stroke-opacity=".85" stroke-width="6" stroke-linecap="round"/>
+</svg>
